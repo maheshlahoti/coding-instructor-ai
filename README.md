@@ -16,8 +16,7 @@ A **dark-mode coding assistant** web app that helps you understand programming c
 ---
 
 ## Demo
-
-![Demo Screenshot](link-to-your-screenshot.png)
+coding-instructor-ezbund5qw-mahesh-lahotis-projects.vercel.app
 
 ---
 
